@@ -1,6 +1,6 @@
 # pwmgr = Pataar's work manager
 
-Just a command line tool that helps Pataar with work
+Just a command line tool that helps Pataar with work. But mainly just a project to learn rust.
 
 ## Commands
 
